@@ -24,7 +24,7 @@ width: width of the returned reference (optional)
     <s>a. What percentage of tax returns filed are elderly returns? Create a plot showing the states with the ten highest percentages of elderly returns. </s>
 
 
-    b. Do elderly returns tend to show more or less than $50,000 adjusted gross income for states?
+    <s>b. Do elderly returns tend to show more or less than $50,000 adjusted gross income for states?</s>
 
     c. Passive income may be more subject to volatility. How do active vs passive sources of income differ for each income bracket. Look at the percentage of total income (row 27) that comes from active sources -- salaries and wages + business or profession net income (rows 29 and 39) vs the percentage that comes from passive sources -- interest + dividends + capital gains (rows 31, 33, 41).  
 
