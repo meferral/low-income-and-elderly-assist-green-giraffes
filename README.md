@@ -1,4 +1,5 @@
 ### Interactive Excel Dashboard For Informing Low Income and Elderly Assistance Grants
+### This was a group assignment for NSS Data Analytics Cohort DA5 in which all team member answered all prompts on their own and came together and put the best of their answers together.  In particular with this dashboard I contributed to the Map Graphic in the center of the dashboard as well as the vlookp driven "tax liability per person" dropdown an the vlookup driven piec hart showig specific stated witht eh metric of +/- 50k on the return
 
 You have been tasked with creating an interactive dashboard for Hand Up America, an organization that provides assistance for low income and elderly taxpayers. You have been asked to create this dashboard using the provided 2016 IRS individual tax return data. HUA would like the dashboard to include state level information, and how those data compare to the national picture. Below are a series of questions to help you think about what visualizations would be helpful in your dashboard. You will give a 10-15 minute presentation on your dashboard to the HUA board to show them how to use it and what insights your dashboard can provide.
 
